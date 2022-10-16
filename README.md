@@ -5,6 +5,9 @@
 Cuaderno con una versión ligeramente modificada del proceso de inferencia de Stable Diffusion para conseguir hiperimágenes e híbridos monstruosos utilizando prompts simples.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BothRocks/maquinito-04/blob/main/Maquinito_Mensual_04.ipynb)
+| Descripción   | Cuaderno |
+| :----- | :----- |
+| Cuaderno principal  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BothRocks/maquinito-04/blob/main/Maquinito_Mensual_04.ipynb)  |
+| Funciones de ayuda  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BothRocks/maquinito-04/blob/main/Maquinito_Mensual_04_helpers.ipynb)   |
 
 Creado para el Maquinito Mensual 4, 25 de octubre de 2022.
